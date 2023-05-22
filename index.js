@@ -1,5 +1,9 @@
 function hasTargetSum(array, target) {
   // Write your algorithm here
+  const number = arraygtarget;
+
+  if(number === array.target) return true;
+  if(number !== target) return false;
 }
 
 /* 
